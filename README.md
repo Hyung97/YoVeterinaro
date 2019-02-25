@@ -6,7 +6,7 @@
 
 <table>
     <tr>
-      <th><p align="center"><img width="320" height="520" src="https://res.cloudinary.com/hup2qfvwn/image/upload/v1551077700/images/yoVeterinario/IMG_20190225_003215.jpg">
+      <th><p align="center"><img width="280" height="480" src="https://res.cloudinary.com/hup2qfvwn/image/upload/v1551077700/images/yoVeterinario/IMG_20190225_003215.jpg">
         </p></th>
       <th></th>
       <th></th>
