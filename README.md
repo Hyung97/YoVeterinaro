@@ -1,4 +1,4 @@
-# Aplicación Android "YoVeterinaro"
+# Aplicación Android "Yo Veterinario"
 
 > Descripción: Aplicación para la busqueda de clinicas veterinarias de una ciudad (Google Maps).
 
