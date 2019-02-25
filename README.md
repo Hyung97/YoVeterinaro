@@ -4,11 +4,9 @@
 
 ### Capturas
 
-### Generar Oficio
-
 <table>
     <tr>
-      <th><p align="center"><img width="480" height="620" src="https://res.cloudinary.com/hup2qfvwn/image/upload/v1551076498/images/sacep/3.png">
+      <th><p align="center"><img width="480" height="620" src="https://res.cloudinary.com/hup2qfvwn/image/upload/v1551077700/images/yoVeterinario/IMG_20190225_003215.jpg">
         </p></th>
       <th></th>
       <th></th>
